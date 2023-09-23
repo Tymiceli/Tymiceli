@@ -5,7 +5,7 @@
 - 💬 Ask me about my tenure at Coders Campus Full Stack Coding Bootcamp
 - 📫 How to reach me: tymiceli@gmail.com
 
-- I am a Full Stack Java/React Developer and A Java Instructor
+- I am a Full Stack Java Developer and A Java Instructor
 
 ## Technologies 
 <div style="display:grid; grid-template-columns:repeat(3, 1fr); grid-gap: 20px;">
