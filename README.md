@@ -13,36 +13,36 @@
   
   <div>
     <h3>Languages</h3>
-    <ul>
-      <li>Java</li>
-      <li>JavaScript</li>
-      <li>NodeJS</li>
-      <li>HTML</li>
-      <li>CSS</li>
-    </ul>
+      <ul>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>NodeJS</li>
+        <li>HTML</li>
+        <li>CSS</li>
+      </ul>
 </div>
   
   <div>
-  <h3>Frameworks/Libraries</h3>
-    <ul>
-      <li>React</li>
-      <li>Redux/React-Redux</li>
-      <li>TypeScript</li>
-      <li>Spring Framework</li>
-      <li>TailwindCSS</li>
-      <li> Bootstrap</li>
-      <li>Thymeleaf</li>
-      <li>Hibernate</li>
-    </ul>
+    <h3>Frameworks/Libraries</h3>
+      <ul>
+        <li>React</li>
+        <li>Redux/React-Redux</li>
+        <li>TypeScript</li>
+        <li>Spring Framework</li>
+        <li>TailwindCSS</li>
+        <li> Bootstrap</li>
+        <li>Thymeleaf</li>
+        <li>Hibernate</li>
+      </ul>
   </div>
-    <div>
+  
+  <div>  
   <h3>Databases</h3>
     <ul>
       <li>MySQL</li>
       <li>Firebase</li>
       <li>MongoDB</li>
     </ul>
-
   </div>
 
   <div>
@@ -60,6 +60,4 @@
     </ul>
   </div>
 
-
 </div>
-- 
